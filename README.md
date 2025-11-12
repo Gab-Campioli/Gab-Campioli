@@ -1,4 +1,4 @@
-Olá Devs! []([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Ffi%2Fview%2Fcat-coding-gif-22257939&psig=AOvVaw0HUUrBoFN8NGwl0hPUfrW7&ust=1762995064494000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDGz6Cy65ADFQAAAAAdAAAAABAj)) Gabriel Campioli aqui.
+Olá Devs!<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/c97457ec-ba01-4dff-a796-b1f24894968f" /> Gabriel Campioli aqui.
 =========================================================================================================================================
  
 Estou cursando Técnico em informática no Senac Pindamonhangaba e Análise e desenvolvimento de sistemas na Unitau.
