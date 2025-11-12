@@ -1,5 +1,7 @@
-Olá Devs!<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/c97457ec-ba01-4dff-a796-b1f24894968f" /> Gabriel Campioli aqui.
+Olá Devs! Gabriel Campioli aqui.
 =========================================================================================================================================
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/c97457ec-ba01-4dff-a796-b1f24894968f"/>
  
 Estou cursando Técnico em informática no Senac Pindamonhangaba e Análise e desenvolvimento de sistemas na Unitau.
 
